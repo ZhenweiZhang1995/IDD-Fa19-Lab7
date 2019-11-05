@@ -24,7 +24,7 @@ add `takePicture();` to the code.
 ## Part C. Make it your own
 
 **a. Find, install, and try out a node-based library and try to incorporate into your lab. Document your successes and failures (totally okay!) for your writeup. This will help others in class figure out cool new tools and capabilities.**  
-I used googld cloud vision api[https://www.npmjs.com/package/@google-cloud/vision] to add tag to the object in the image.  
+I used google cloud vision api[https://www.npmjs.com/package/@google-cloud/vision] to add tag to the object in the image.  
 ```
 async function quickstart() {
   // Imports the Google Cloud client library
